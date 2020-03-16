@@ -1,5 +1,5 @@
 {
-    "name": "dompdf/dompdf",
+    "name": "skyeng/dompdf",
     "type": "library",
     "description": "DOMPDF is a CSS 2.1 compliant HTML to PDF converter",
     "homepage": "https://github.com/dompdf/dompdf",
@@ -30,7 +30,7 @@
         "php": "^7.1",
         "ext-dom": "*",
         "ext-mbstring": "*",
-        "phenx/php-font-lib": "^0.5.1",
+        "phenx/php-font-lib": "dev-master",
         "phenx/php-svg-lib": "^0.3.3"
     },
     "require-dev": {
