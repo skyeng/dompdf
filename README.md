@@ -1,3 +1,15 @@
+# Копия репозитория dompdf/dompdf
+
+## Краткое описание
+Копия репозитория dompdf/dompdf. Не разрабатывается
+
+## Ответственные
+
+- Code owner: [Станислав Варенков](https://skyeng.slack.com/team/U428WHPPU)
+- Product owner: [Станислав Варенков](https://skyeng.slack.com/team/U428WHPPU)
+- Команда: Edu Skysmart Development
+
+
 Dompdf
 ======
 
